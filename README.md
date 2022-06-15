@@ -1,3 +1,3 @@
 # Practicando Testing en React
 
-Parte del curso de Fernando Herrera del curso React de cero a experto.
+Parte del curso de Fernando Herrera (React de cero a experto).
